@@ -1,7 +1,36 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "S:\\.Net\\Learning\\ECommerceMicroservice\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90A35664-8FC9-43B7-B825-DB61E2CAB300}|Product.Infrastructure\\Product.Infrastructure.csproj|s:\\.net\\learning\\ecommercemicroservice\\product.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A35664-8FC9-43B7-B825-DB61E2CAB300}|Product.Infrastructure\\Product.Infrastructure.csproj|solutionrelative:product.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7282CFA-A2C1-40B2-BFF1-8384AA58C8B9}|Core\\Core.csproj|s:\\.net\\learning\\ecommercemicroservice\\core\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7282CFA-A2C1-40B2-BFF1-8384AA58C8B9}|Core\\Core.csproj|solutionrelative:core\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A35664-8FC9-43B7-B825-DB61E2CAB300}|Product.Infrastructure\\Product.Infrastructure.csproj|s:\\.net\\learning\\ecommercemicroservice\\product.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A35664-8FC9-43B7-B825-DB61E2CAB300}|Product.Infrastructure\\Product.Infrastructure.csproj|solutionrelative:product.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A35664-8FC9-43B7-B825-DB61E2CAB300}|Product.Infrastructure\\Product.Infrastructure.csproj|s:\\.net\\learning\\ecommercemicroservice\\product.infrastructure\\product.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{90A35664-8FC9-43B7-B825-DB61E2CAB300}|Product.Infrastructure\\Product.Infrastructure.csproj|solutionrelative:product.infrastructure\\product.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7282CFA-A2C1-40B2-BFF1-8384AA58C8B9}|Core\\Core.csproj|s:\\.net\\learning\\ecommercemicroservice\\core\\entitites\\productentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7282CFA-A2C1-40B2-BFF1-8384AA58C8B9}|Core\\Core.csproj|solutionrelative:core\\entitites\\productentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7282CFA-A2C1-40B2-BFF1-8384AA58C8B9}|Core\\Core.csproj|s:\\.net\\learning\\ecommercemicroservice\\core\\options\\connectionstringoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7282CFA-A2C1-40B2-BFF1-8384AA58C8B9}|Core\\Core.csproj|solutionrelative:core\\options\\connectionstringoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7282CFA-A2C1-40B2-BFF1-8384AA58C8B9}|Core\\Core.csproj|s:\\.net\\learning\\ecommercemicroservice\\core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F7282CFA-A2C1-40B2-BFF1-8384AA58C8B9}|Core\\Core.csproj|solutionrelative:core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +38,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductEntity.cs",
+              "DocumentMoniker": "S:\\.Net\\Learning\\ECommerceMicroservice\\Core\\Entitites\\ProductEntity.cs",
+              "RelativeDocumentMoniker": "Core\\Entitites\\ProductEntity.cs",
+              "ToolTip": "S:\\.Net\\Learning\\ECommerceMicroservice\\Core\\Entitites\\ProductEntity.cs",
+              "RelativeToolTip": "Core\\Entitites\\ProductEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T10:51:04.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "S:\\.Net\\Learning\\ECommerceMicroservice\\Product.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Product.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "S:\\.Net\\Learning\\ECommerceMicroservice\\Product.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Product.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T10:49:00.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.Infrastructure",
+              "DocumentMoniker": "S:\\.Net\\Learning\\ECommerceMicroservice\\Product.Infrastructure\\Product.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Product.Infrastructure\\Product.Infrastructure.csproj",
+              "ToolTip": "S:\\.Net\\Learning\\ECommerceMicroservice\\Product.Infrastructure\\Product.Infrastructure.csproj",
+              "RelativeToolTip": "Product.Infrastructure\\Product.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-02T10:47:29.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "S:\\.Net\\Learning\\ECommerceMicroservice\\Product.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Product.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "S:\\.Net\\Learning\\ECommerceMicroservice\\Product.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "Product.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T10:44:27.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConnectionStringOptions.cs",
+              "DocumentMoniker": "S:\\.Net\\Learning\\ECommerceMicroservice\\Core\\Options\\ConnectionStringOptions.cs",
+              "RelativeDocumentMoniker": "Core\\Options\\ConnectionStringOptions.cs",
+              "ToolTip": "S:\\.Net\\Learning\\ECommerceMicroservice\\Core\\Options\\ConnectionStringOptions.cs",
+              "RelativeToolTip": "Core\\Options\\ConnectionStringOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T09:59:18.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Core",
+              "DocumentMoniker": "S:\\.Net\\Learning\\ECommerceMicroservice\\Core\\Core.csproj",
+              "RelativeDocumentMoniker": "Core\\Core.csproj",
+              "ToolTip": "S:\\.Net\\Learning\\ECommerceMicroservice\\Core\\Core.csproj",
+              "RelativeToolTip": "Core\\Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-02T09:56:54.816Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "S:\\.Net\\Learning\\ECommerceMicroservice\\Core\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Core\\DependencyInjection.cs",
+              "ToolTip": "S:\\.Net\\Learning\\ECommerceMicroservice\\Core\\DependencyInjection.cs",
+              "RelativeToolTip": "Core\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T09:57:10.585Z",
+              "EditorCaption": ""
             }
           ]
         }
