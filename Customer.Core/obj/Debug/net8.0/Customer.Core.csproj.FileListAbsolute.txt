@@ -1,0 +1,16 @@
+S:\.Net\Learning\ECommerceMicroservice\Customer.Core\obj\Debug\net8.0\Customer.Core.csproj.AssemblyReference.cache
+S:\.Net\Learning\ECommerceMicroservice\Customer.Core\obj\Debug\net8.0\Customer.Core.GeneratedMSBuildEditorConfig.editorconfig
+S:\.Net\Learning\ECommerceMicroservice\Customer.Core\obj\Debug\net8.0\Customer.Core.AssemblyInfoInputs.cache
+S:\.Net\Learning\ECommerceMicroservice\Customer.Core\obj\Debug\net8.0\Customer.Core.AssemblyInfo.cs
+S:\.Net\Learning\ECommerceMicroservice\Customer.Core\obj\Debug\net8.0\Customer.Core.csproj.CoreCompileInputs.cache
+S:\.Net\Learning\ECommerceMicroservice\Customer.Core\obj\Debug\net8.0\Customer.Core.sourcelink.json
+S:\.Net\Learning\ECommerceMicroservice\Customer.Core\bin\Debug\net8.0\Customer.Core.deps.json
+S:\.Net\Learning\ECommerceMicroservice\Customer.Core\bin\Debug\net8.0\Customer.Core.dll
+S:\.Net\Learning\ECommerceMicroservice\Customer.Core\bin\Debug\net8.0\Customer.Core.pdb
+S:\.Net\Learning\ECommerceMicroservice\Customer.Core\obj\Debug\net8.0\Customer.Core.dll
+S:\.Net\Learning\ECommerceMicroservice\Customer.Core\obj\Debug\net8.0\refint\Customer.Core.dll
+S:\.Net\Learning\ECommerceMicroservice\Customer.Core\obj\Debug\net8.0\Customer.Core.pdb
+S:\.Net\Learning\ECommerceMicroservice\Customer.Core\obj\Debug\net8.0\ref\Customer.Core.dll
+S:\.Net\Learning\ECommerceMicroservice\Customer.Core\bin\Debug\net8.0\Core.dll
+S:\.Net\Learning\ECommerceMicroservice\Customer.Core\bin\Debug\net8.0\Core.pdb
+S:\.Net\Learning\ECommerceMicroservice\Customer.Core\obj\Debug\net8.0\Customer.2C42839F.Up2Date

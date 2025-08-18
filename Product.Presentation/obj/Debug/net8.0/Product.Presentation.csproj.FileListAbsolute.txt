@@ -8,6 +8,7 @@ S:\.Net\Learning\ECommerceMicroservice\Product.Presentation\bin\Debug\net8.0\Pro
 S:\.Net\Learning\ECommerceMicroservice\Product.Presentation\bin\Debug\net8.0\Azure.Core.dll
 S:\.Net\Learning\ECommerceMicroservice\Product.Presentation\bin\Debug\net8.0\Azure.Identity.dll
 S:\.Net\Learning\ECommerceMicroservice\Product.Presentation\bin\Debug\net8.0\Humanizer.dll
+S:\.Net\Learning\ECommerceMicroservice\Product.Presentation\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 S:\.Net\Learning\ECommerceMicroservice\Product.Presentation\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 S:\.Net\Learning\ECommerceMicroservice\Product.Presentation\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
 S:\.Net\Learning\ECommerceMicroservice\Product.Presentation\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll

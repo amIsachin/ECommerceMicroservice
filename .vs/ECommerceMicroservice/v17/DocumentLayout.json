@@ -1,24 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "S:\\.Net\\Learning\\ECommerceMicroservice\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{59C30193-92AA-4848-8318-5D1A07326F65}|Product.Presentation\\Product.Presentation.csproj|s:\\.net\\learning\\ecommercemicroservice\\product.presentation\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{59C30193-92AA-4848-8318-5D1A07326F65}|Product.Presentation\\Product.Presentation.csproj|solutionrelative:product.presentation\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90A35664-8FC9-43B7-B825-DB61E2CAB300}|Product.Infrastructure\\Product.Infrastructure.csproj|s:\\.net\\learning\\ecommercemicroservice\\product.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90A35664-8FC9-43B7-B825-DB61E2CAB300}|Product.Infrastructure\\Product.Infrastructure.csproj|solutionrelative:product.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41DC97B3-E58D-47D1-909A-EE9BD3DE7812}|Product.Application\\Product.Application.csproj|s:\\.net\\learning\\ecommercemicroservice\\product.application\\quesries\\getallproductqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41DC97B3-E58D-47D1-909A-EE9BD3DE7812}|Product.Application\\Product.Application.csproj|solutionrelative:product.application\\quesries\\getallproductqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41DC97B3-E58D-47D1-909A-EE9BD3DE7812}|Product.Application\\Product.Application.csproj|s:\\.net\\learning\\ecommercemicroservice\\product.application\\commands\\addproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41DC97B3-E58D-47D1-909A-EE9BD3DE7812}|Product.Application\\Product.Application.csproj|solutionrelative:product.application\\commands\\addproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -26,63 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "S:\\.Net\\Learning\\ECommerceMicroservice\\Product.Infrastructure\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "Product.Infrastructure\\DependencyInjection.cs",
-              "ToolTip": "S:\\.Net\\Learning\\ECommerceMicroservice\\Product.Infrastructure\\DependencyInjection.cs",
-              "RelativeToolTip": "Product.Infrastructure\\DependencyInjection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T05:04:04.893Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GetAllProductQueryHandler.cs",
-              "DocumentMoniker": "S:\\.Net\\Learning\\ECommerceMicroservice\\Product.Application\\Quesries\\GetAllProductQueryHandler.cs",
-              "RelativeDocumentMoniker": "Product.Application\\Quesries\\GetAllProductQueryHandler.cs",
-              "ToolTip": "S:\\.Net\\Learning\\ECommerceMicroservice\\Product.Application\\Quesries\\GetAllProductQueryHandler.cs",
-              "RelativeToolTip": "Product.Application\\Quesries\\GetAllProductQueryHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T04:50:10Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AddProductCommandHandler.cs",
-              "DocumentMoniker": "S:\\.Net\\Learning\\ECommerceMicroservice\\Product.Application\\Commands\\AddProductCommandHandler.cs",
-              "RelativeDocumentMoniker": "Product.Application\\Commands\\AddProductCommandHandler.cs",
-              "ToolTip": "S:\\.Net\\Learning\\ECommerceMicroservice\\Product.Application\\Commands\\AddProductCommandHandler.cs",
-              "RelativeToolTip": "Product.Application\\Commands\\AddProductCommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T04:49:04.135Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "S:\\.Net\\Learning\\ECommerceMicroservice\\Product.Presentation\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Product.Presentation\\Controllers\\ProductController.cs",
-              "ToolTip": "S:\\.Net\\Learning\\ECommerceMicroservice\\Product.Presentation\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Product.Presentation\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACgAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-03T13:09:01.36Z",
-              "EditorCaption": ""
             }
           ]
         }
