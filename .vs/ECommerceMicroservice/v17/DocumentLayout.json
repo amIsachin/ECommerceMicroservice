@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "S:\\.Net\\Learning\\ECommerceMicroservice\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB84E100-5DA7-4F8F-BC87-64A12F14EA36}|Gateway\\Gateway.csproj|s:\\.net\\learning\\ecommercemicroservice\\gateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CB84E100-5DA7-4F8F-BC87-64A12F14EA36}|Gateway\\Gateway.csproj|solutionrelative:gateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06959D5D-2892-4206-B08E-31F3898F2BA3}|Customer.Presentation\\Customer.Presentation.csproj|s:\\.net\\learning\\ecommercemicroservice\\customer.presentation\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06959D5D-2892-4206-B08E-31F3898F2BA3}|Customer.Presentation\\Customer.Presentation.csproj|solutionrelative:customer.presentation\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "S:\\.Net\\Learning\\ECommerceMicroservice\\Customer.Presentation\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Customer.Presentation\\Controllers\\CustomerController.cs",
+              "ToolTip": "S:\\.Net\\Learning\\ECommerceMicroservice\\Customer.Presentation\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Customer.Presentation\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T16:57:10.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ocelot.json",
+              "DocumentMoniker": "S:\\.Net\\Learning\\ECommerceMicroservice\\Gateway\\Ocelot.json",
+              "RelativeDocumentMoniker": "Gateway\\Ocelot.json",
+              "ToolTip": "S:\\.Net\\Learning\\ECommerceMicroservice\\Gateway\\Ocelot.json",
+              "RelativeToolTip": "Gateway\\Ocelot.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-21T16:42:04.297Z",
+              "EditorCaption": ""
             }
           ]
         }
