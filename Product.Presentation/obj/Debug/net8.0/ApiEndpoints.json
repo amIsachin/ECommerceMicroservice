@@ -19,7 +19,7 @@
   {
     "ContainingType": "Product.Presentation.Controllers.ProductController",
     "Method": "GetAllProduct",
-    "RelativePath": "api/Product",
+    "RelativePath": "api/Product/GetAllProduct",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,

@@ -1,4 +1,5 @@
 ﻿using Core.Entitites;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace Product.Infrastructure.Data;

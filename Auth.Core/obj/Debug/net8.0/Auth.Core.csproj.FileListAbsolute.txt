@@ -1,0 +1,13 @@
+S:\.Net\Learning\ECommerceMicroservice\Auth.Core\bin\Debug\net8.0\Auth.Core.deps.json
+S:\.Net\Learning\ECommerceMicroservice\Auth.Core\bin\Debug\net8.0\Auth.Core.dll
+S:\.Net\Learning\ECommerceMicroservice\Auth.Core\bin\Debug\net8.0\Auth.Core.pdb
+S:\.Net\Learning\ECommerceMicroservice\Auth.Core\obj\Debug\net8.0\Auth.Core.csproj.AssemblyReference.cache
+S:\.Net\Learning\ECommerceMicroservice\Auth.Core\obj\Debug\net8.0\Auth.Core.GeneratedMSBuildEditorConfig.editorconfig
+S:\.Net\Learning\ECommerceMicroservice\Auth.Core\obj\Debug\net8.0\Auth.Core.AssemblyInfoInputs.cache
+S:\.Net\Learning\ECommerceMicroservice\Auth.Core\obj\Debug\net8.0\Auth.Core.AssemblyInfo.cs
+S:\.Net\Learning\ECommerceMicroservice\Auth.Core\obj\Debug\net8.0\Auth.Core.csproj.CoreCompileInputs.cache
+S:\.Net\Learning\ECommerceMicroservice\Auth.Core\obj\Debug\net8.0\Auth.Core.sourcelink.json
+S:\.Net\Learning\ECommerceMicroservice\Auth.Core\obj\Debug\net8.0\Auth.Core.dll
+S:\.Net\Learning\ECommerceMicroservice\Auth.Core\obj\Debug\net8.0\refint\Auth.Core.dll
+S:\.Net\Learning\ECommerceMicroservice\Auth.Core\obj\Debug\net8.0\Auth.Core.pdb
+S:\.Net\Learning\ECommerceMicroservice\Auth.Core\obj\Debug\net8.0\ref\Auth.Core.dll

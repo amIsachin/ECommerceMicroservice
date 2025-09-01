@@ -27,7 +27,7 @@ namespace Product.Presentation.Controllers
             // return CreatedAtAction(nameof(GetAll), new { id }, command);
         }
 
-        [HttpGet]
+        [HttpGet("GetAllProduct")]
         public async Task<IActionResult> GetAllProduct()
         {
             var allProducts = await _queryHandler.Handle();
