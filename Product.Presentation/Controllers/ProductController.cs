@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Product.Application.Commands;
 using Product.Application.Quesries;
 
@@ -17,7 +18,7 @@ namespace Product.Presentation.Controllers
             _queryHandler = queryHandler;
         }
 
-        [HttpPost(Name = "Create")]
+        [HttpPost("CreateProduct", Name = "Create")]
         public async Task<IActionResult> CreateProduct(AddProductCommand command)
         {
             var id = await _commandHandler.Handle(command);

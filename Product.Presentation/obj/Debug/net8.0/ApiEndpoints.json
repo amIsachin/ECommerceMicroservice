@@ -2,7 +2,7 @@
   {
     "ContainingType": "Product.Presentation.Controllers.ProductController",
     "Method": "CreateProduct",
-    "RelativePath": "api/Product",
+    "RelativePath": "api/Product/CreateProduct",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,

@@ -3,16 +3,17 @@
   "WorkspaceRootPath": "S:\\.Net\\Learning\\ECommerceMicroservice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7E55C2CD-7932-40EA-96DE-0E694E6DB581}|Auth.Infrastructure\\Auth.Infrastructure.csproj|s:\\.net\\learning\\ecommercemicroservice\\auth.infrastructure\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E55C2CD-7932-40EA-96DE-0E694E6DB581}|Auth.Infrastructure\\Auth.Infrastructure.csproj|solutionrelative:auth.infrastructure\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5D8511A3-18A7-4314-96D5-FE61E1B525B4}|..\\ECommerce\\ECommerce.csproj|s:\\.net\\learning\\ecommerce\\models\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C33F87D6-6F8F-4D1B-8C12-84D576BFEC21}|Auth.Presentation\\Auth.Presentation.csproj|s:\\.net\\learning\\ecommercemicroservice\\auth.presentation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C33F87D6-6F8F-4D1B-8C12-84D576BFEC21}|Auth.Presentation\\Auth.Presentation.csproj|solutionrelative:auth.presentation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5D8511A3-18A7-4314-96D5-FE61E1B525B4}|..\\ECommerce\\ECommerce.csproj|s:\\.net\\learning\\ecommerce\\utilities\\enums\\apitypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DFC3244-0231-45EF-8A00-B96E8422F963}|Auth.Application\\Auth.Application.csproj|s:\\.net\\learning\\ecommercemicroservice\\auth.application\\interfaces\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DFC3244-0231-45EF-8A00-B96E8422F963}|Auth.Application\\Auth.Application.csproj|solutionrelative:auth.application\\interfaces\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5D8511A3-18A7-4314-96D5-FE61E1B525B4}|..\\ECommerce\\ECommerce.csproj|s:\\.net\\learning\\ecommerce\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB84E100-5DA7-4F8F-BC87-64A12F14EA36}|Gateway\\Gateway.csproj|s:\\.net\\learning\\ecommercemicroservice\\gateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CB84E100-5DA7-4F8F-BC87-64A12F14EA36}|Gateway\\Gateway.csproj|solutionrelative:gateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7E55C2CD-7932-40EA-96DE-0E694E6DB581}|Auth.Infrastructure\\Auth.Infrastructure.csproj|s:\\.net\\learning\\ecommercemicroservice\\auth.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,20 +24,20 @@
       "RelativeMoniker": "D:0:0:{C33F87D6-6F8F-4D1B-8C12-84D576BFEC21}|Auth.Presentation\\Auth.Presentation.csproj|solutionrelative:auth.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0E2078D-377E-4551-9A23-323CEC049598}|Auth.Core\\Auth.Core.csproj|s:\\.net\\learning\\ecommercemicroservice\\auth.core\\options\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0E2078D-377E-4551-9A23-323CEC049598}|Auth.Core\\Auth.Core.csproj|solutionrelative:auth.core\\options\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C33F87D6-6F8F-4D1B-8C12-84D576BFEC21}|Auth.Presentation\\Auth.Presentation.csproj|s:\\.net\\learning\\ecommercemicroservice\\auth.presentation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33F87D6-6F8F-4D1B-8C12-84D576BFEC21}|Auth.Presentation\\Auth.Presentation.csproj|solutionrelative:auth.presentation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C33F87D6-6F8F-4D1B-8C12-84D576BFEC21}|Auth.Presentation\\Auth.Presentation.csproj|s:\\.net\\learning\\ecommercemicroservice\\auth.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C33F87D6-6F8F-4D1B-8C12-84D576BFEC21}|Auth.Presentation\\Auth.Presentation.csproj|solutionrelative:auth.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{06959D5D-2892-4206-B08E-31F3898F2BA3}|Customer.Presentation\\Customer.Presentation.csproj|s:\\.net\\learning\\ecommercemicroservice\\customer.presentation\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06959D5D-2892-4206-B08E-31F3898F2BA3}|Customer.Presentation\\Customer.Presentation.csproj|solutionrelative:customer.presentation\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0E2078D-377E-4551-9A23-323CEC049598}|Auth.Core\\Auth.Core.csproj|s:\\.net\\learning\\ecommercemicroservice\\auth.core\\identityentities\\registerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0E2078D-377E-4551-9A23-323CEC049598}|Auth.Core\\Auth.Core.csproj|solutionrelative:auth.core\\identityentities\\registerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{59C30193-92AA-4848-8318-5D1A07326F65}|Product.Presentation\\Product.Presentation.csproj|s:\\.net\\learning\\ecommercemicroservice\\product.presentation\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59C30193-92AA-4848-8318-5D1A07326F65}|Product.Presentation\\Product.Presentation.csproj|solutionrelative:product.presentation\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E55C2CD-7932-40EA-96DE-0E694E6DB581}|Auth.Infrastructure\\Auth.Infrastructure.csproj|s:\\.net\\learning\\ecommercemicroservice\\auth.infrastructure\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E55C2CD-7932-40EA-96DE-0E694E6DB581}|Auth.Infrastructure\\Auth.Infrastructure.csproj|solutionrelative:auth.infrastructure\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E55C2CD-7932-40EA-96DE-0E694E6DB581}|Auth.Infrastructure\\Auth.Infrastructure.csproj|s:\\.net\\learning\\ecommercemicroservice\\auth.infrastructure\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E55C2CD-7932-40EA-96DE-0E694E6DB581}|Auth.Infrastructure\\Auth.Infrastructure.csproj|solutionrelative:auth.infrastructure\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,128 +47,136 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Request.cs",
+              "DocumentMoniker": "S:\\.Net\\Learning\\ECommerce\\Models\\Request.cs",
+              "RelativeDocumentMoniker": "..\\ECommerce\\Models\\Request.cs",
+              "ToolTip": "S:\\.Net\\Learning\\ECommerce\\Models\\Request.cs",
+              "RelativeToolTip": "..\\ECommerce\\Models\\Request.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T16:58:24.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApiTypeEnum.cs",
+              "DocumentMoniker": "S:\\.Net\\Learning\\ECommerce\\Utilities\\Enums\\ApiTypeEnum.cs",
+              "RelativeDocumentMoniker": "..\\ECommerce\\Utilities\\Enums\\ApiTypeEnum.cs",
+              "ToolTip": "S:\\.Net\\Learning\\ECommerce\\Utilities\\Enums\\ApiTypeEnum.cs",
+              "RelativeToolTip": "..\\ECommerce\\Utilities\\Enums\\ApiTypeEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T16:57:06.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Response.cs",
+              "DocumentMoniker": "S:\\.Net\\Learning\\ECommerce\\Models\\Response.cs",
+              "RelativeDocumentMoniker": "..\\ECommerce\\Models\\Response.cs",
+              "ToolTip": "S:\\.Net\\Learning\\ECommerce\\Models\\Response.cs",
+              "RelativeToolTip": "..\\ECommerce\\Models\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T16:07:22.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ocelot.json",
+              "DocumentMoniker": "S:\\.Net\\Learning\\ECommerceMicroservice\\Gateway\\Ocelot.json",
+              "RelativeDocumentMoniker": "Gateway\\Ocelot.json",
+              "ToolTip": "S:\\.Net\\Learning\\ECommerceMicroservice\\Gateway\\Ocelot.json",
+              "RelativeToolTip": "Gateway\\Ocelot.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-06T15:52:58.038Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "JwtService.cs",
-              "DocumentMoniker": "S:\\.Net\\Learning\\ECommerceMicroservice\\Auth.Infrastructure\\Services\\JwtService.cs",
-              "RelativeDocumentMoniker": "Auth.Infrastructure\\Services\\JwtService.cs",
-              "ToolTip": "S:\\.Net\\Learning\\ECommerceMicroservice\\Auth.Infrastructure\\Services\\JwtService.cs*",
-              "RelativeToolTip": "Auth.Infrastructure\\Services\\JwtService.cs*",
-              "ViewState": "AgIAAAsAAAAAAAAAAIAwwBoAAABCAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "S:\\.Net\\Learning\\ECommerceMicroservice\\Customer.Presentation\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Customer.Presentation\\Controllers\\CustomerController.cs",
+              "ToolTip": "S:\\.Net\\Learning\\ECommerceMicroservice\\Customer.Presentation\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Customer.Presentation\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T06:20:12.255Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IJwtService.cs",
-              "DocumentMoniker": "S:\\.Net\\Learning\\ECommerceMicroservice\\Auth.Application\\Interfaces\\IJwtService.cs",
-              "RelativeDocumentMoniker": "Auth.Application\\Interfaces\\IJwtService.cs",
-              "ToolTip": "S:\\.Net\\Learning\\ECommerceMicroservice\\Auth.Application\\Interfaces\\IJwtService.cs",
-              "RelativeToolTip": "Auth.Application\\Interfaces\\IJwtService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T06:18:43.838Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "S:\\.Net\\Learning\\ECommerceMicroservice\\Auth.Infrastructure\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "Auth.Infrastructure\\DependencyInjection.cs",
-              "ToolTip": "S:\\.Net\\Learning\\ECommerceMicroservice\\Auth.Infrastructure\\DependencyInjection.cs",
-              "RelativeToolTip": "Auth.Infrastructure\\DependencyInjection.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAwwEsAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T12:32:13.367Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "S:\\.Net\\Learning\\ECommerceMicroservice\\Auth.Presentation\\appsettings.json",
-              "RelativeDocumentMoniker": "Auth.Presentation\\appsettings.json",
-              "ToolTip": "S:\\.Net\\Learning\\ECommerceMicroservice\\Auth.Presentation\\appsettings.json",
-              "RelativeToolTip": "Auth.Presentation\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-30T10:13:41.547Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "JWTSettings.cs",
-              "DocumentMoniker": "S:\\.Net\\Learning\\ECommerceMicroservice\\Auth.Core\\Options\\JWTSettings.cs",
-              "RelativeDocumentMoniker": "Auth.Core\\Options\\JWTSettings.cs",
-              "ToolTip": "S:\\.Net\\Learning\\ECommerceMicroservice\\Auth.Core\\Options\\JWTSettings.cs",
-              "RelativeToolTip": "Auth.Core\\Options\\JWTSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-30T10:10:38.798Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "S:\\.Net\\Learning\\ECommerceMicroservice\\Auth.Presentation\\Program.cs",
-              "RelativeDocumentMoniker": "Auth.Presentation\\Program.cs",
-              "ToolTip": "S:\\.Net\\Learning\\ECommerceMicroservice\\Auth.Presentation\\Program.cs",
-              "RelativeToolTip": "Auth.Presentation\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T13:14:00.031Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-06T10:59:06.764Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "AuthDbContext.cs",
-              "DocumentMoniker": "S:\\.Net\\Learning\\ECommerceMicroservice\\Auth.Infrastructure\\Data\\AuthDbContext.cs",
-              "RelativeDocumentMoniker": "Auth.Infrastructure\\Data\\AuthDbContext.cs",
-              "ToolTip": "S:\\.Net\\Learning\\ECommerceMicroservice\\Auth.Infrastructure\\Data\\AuthDbContext.cs",
-              "RelativeToolTip": "Auth.Infrastructure\\Data\\AuthDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABnAAAAAAAAAA==",
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "S:\\.Net\\Learning\\ECommerceMicroservice\\Product.Presentation\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Product.Presentation\\Controllers\\ProductController.cs",
+              "ToolTip": "S:\\.Net\\Learning\\ECommerceMicroservice\\Product.Presentation\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Product.Presentation\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T12:59:27.974Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-06T10:31:58.881Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "RegisterEntity.cs",
-              "DocumentMoniker": "S:\\.Net\\Learning\\ECommerceMicroservice\\Auth.Core\\IdentityEntities\\RegisterEntity.cs",
-              "RelativeDocumentMoniker": "Auth.Core\\IdentityEntities\\RegisterEntity.cs",
-              "ToolTip": "S:\\.Net\\Learning\\ECommerceMicroservice\\Auth.Core\\IdentityEntities\\RegisterEntity.cs",
-              "RelativeToolTip": "Auth.Core\\IdentityEntities\\RegisterEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T12:40:01.913Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "AuthController.cs",
               "DocumentMoniker": "S:\\.Net\\Learning\\ECommerceMicroservice\\Auth.Presentation\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Auth.Presentation\\Controllers\\AuthController.cs",
               "ToolTip": "S:\\.Net\\Learning\\ECommerceMicroservice\\Auth.Presentation\\Controllers\\AuthController.cs",
               "RelativeToolTip": "Auth.Presentation\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAIAwwDwAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAwwCsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T12:35:41.523Z",
+              "WhenOpened": "2025-09-06T10:31:58.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "S:\\.Net\\Learning\\ECommerceMicroservice\\Auth.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Auth.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "S:\\.Net\\Learning\\ECommerceMicroservice\\Auth.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "Auth.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAACcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T10:28:04.494Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "S:\\.Net\\Learning\\ECommerceMicroservice\\Auth.Infrastructure\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "Auth.Infrastructure\\Services\\JwtService.cs",
+              "ToolTip": "S:\\.Net\\Learning\\ECommerceMicroservice\\Auth.Infrastructure\\Services\\JwtService.cs",
+              "RelativeToolTip": "Auth.Infrastructure\\Services\\JwtService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T10:27:51.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "S:\\.Net\\Learning\\ECommerceMicroservice\\Auth.Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "Auth.Presentation\\appsettings.json",
+              "ToolTip": "S:\\.Net\\Learning\\ECommerceMicroservice\\Auth.Presentation\\appsettings.json",
+              "RelativeToolTip": "Auth.Presentation\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-06T10:27:42.92Z"
             }
           ]
         }

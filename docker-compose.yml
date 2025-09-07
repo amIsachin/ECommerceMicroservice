@@ -1,0 +1,6 @@
+services:
+  product.presentation:
+    image: ${DOCKER_REGISTRY-}productpresentation
+    build:
+      context: .
+      dockerfile: Product.Presentation/Dockerfile
