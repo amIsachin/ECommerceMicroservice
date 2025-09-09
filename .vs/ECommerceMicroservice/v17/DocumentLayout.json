@@ -3,41 +3,47 @@
   "WorkspaceRootPath": "S:\\.Net\\Learning\\ECommerceMicroservice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5D8511A3-18A7-4314-96D5-FE61E1B525B4}|..\\ECommerce\\ECommerce.csproj|s:\\.net\\learning\\ecommerce\\models\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{398E6A16-9E09-41DE-BD6B-C12F94B3B7B3}|..\\ECommerce.Web\\ECommerce.Web.csproj|s:\\.net\\learning\\ecommerce.web\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D8511A3-18A7-4314-96D5-FE61E1B525B4}|..\\ECommerce\\ECommerce.csproj|s:\\.net\\learning\\ecommerce\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{398E6A16-9E09-41DE-BD6B-C12F94B3B7B3}|..\\ECommerce.Web\\ECommerce.Web.csproj|s:\\.net\\learning\\ecommerce.web\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D8511A3-18A7-4314-96D5-FE61E1B525B4}|..\\ECommerce\\ECommerce.csproj|s:\\.net\\learning\\ecommerce\\utilities\\enums\\apitypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{398E6A16-9E09-41DE-BD6B-C12F94B3B7B3}|..\\ECommerce.Web\\ECommerce.Web.csproj|s:\\.net\\learning\\ecommerce.web\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB84E100-5DA7-4F8F-BC87-64A12F14EA36}|Gateway\\Gateway.csproj|s:\\.net\\learning\\ecommercemicroservice\\gateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CB84E100-5DA7-4F8F-BC87-64A12F14EA36}|Gateway\\Gateway.csproj|solutionrelative:gateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{398E6A16-9E09-41DE-BD6B-C12F94B3B7B3}|..\\ECommerce.Web\\ECommerce.Web.csproj|s:\\.net\\learning\\ecommerce.web\\models\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E55C2CD-7932-40EA-96DE-0E694E6DB581}|Auth.Infrastructure\\Auth.Infrastructure.csproj|s:\\.net\\learning\\ecommercemicroservice\\auth.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E55C2CD-7932-40EA-96DE-0E694E6DB581}|Auth.Infrastructure\\Auth.Infrastructure.csproj|solutionrelative:auth.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{398E6A16-9E09-41DE-BD6B-C12F94B3B7B3}|..\\ECommerce.Web\\ECommerce.Web.csproj|s:\\.net\\learning\\ecommerce.web\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C33F87D6-6F8F-4D1B-8C12-84D576BFEC21}|Auth.Presentation\\Auth.Presentation.csproj|s:\\.net\\learning\\ecommercemicroservice\\auth.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C33F87D6-6F8F-4D1B-8C12-84D576BFEC21}|Auth.Presentation\\Auth.Presentation.csproj|solutionrelative:auth.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C33F87D6-6F8F-4D1B-8C12-84D576BFEC21}|Auth.Presentation\\Auth.Presentation.csproj|s:\\.net\\learning\\ecommercemicroservice\\auth.presentation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C33F87D6-6F8F-4D1B-8C12-84D576BFEC21}|Auth.Presentation\\Auth.Presentation.csproj|solutionrelative:auth.presentation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{06959D5D-2892-4206-B08E-31F3898F2BA3}|Customer.Presentation\\Customer.Presentation.csproj|s:\\.net\\learning\\ecommercemicroservice\\customer.presentation\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06959D5D-2892-4206-B08E-31F3898F2BA3}|Customer.Presentation\\Customer.Presentation.csproj|solutionrelative:customer.presentation\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{398E6A16-9E09-41DE-BD6B-C12F94B3B7B3}|..\\ECommerce.Web\\ECommerce.Web.csproj|s:\\.net\\learning\\ecommerce.web\\models\\productentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{59C30193-92AA-4848-8318-5D1A07326F65}|Product.Presentation\\Product.Presentation.csproj|s:\\.net\\learning\\ecommercemicroservice\\product.presentation\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{59C30193-92AA-4848-8318-5D1A07326F65}|Product.Presentation\\Product.Presentation.csproj|solutionrelative:product.presentation\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E55C2CD-7932-40EA-96DE-0E694E6DB581}|Auth.Infrastructure\\Auth.Infrastructure.csproj|s:\\.net\\learning\\ecommercemicroservice\\auth.infrastructure\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7E55C2CD-7932-40EA-96DE-0E694E6DB581}|Auth.Infrastructure\\Auth.Infrastructure.csproj|solutionrelative:auth.infrastructure\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{398E6A16-9E09-41DE-BD6B-C12F94B3B7B3}|..\\ECommerce.Web\\ECommerce.Web.csproj|s:\\.net\\learning\\ecommerce.web\\utilities\\options\\apioptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{398E6A16-9E09-41DE-BD6B-C12F94B3B7B3}|..\\ECommerce.Web\\ECommerce.Web.csproj|s:\\.net\\learning\\ecommerce.web\\utilities\\enums\\apitypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{398E6A16-9E09-41DE-BD6B-C12F94B3B7B3}|..\\ECommerce.Web\\ECommerce.Web.csproj|s:\\.net\\learning\\ecommerce.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{398E6A16-9E09-41DE-BD6B-C12F94B3B7B3}|..\\ECommerce.Web\\ECommerce.Web.csproj|s:\\.net\\learning\\ecommerce.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{398E6A16-9E09-41DE-BD6B-C12F94B3B7B3}|..\\ECommerce.Web\\ECommerce.Web.csproj|s:\\.net\\learning\\ecommerce.web\\services\\iservices\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{398E6A16-9E09-41DE-BD6B-C12F94B3B7B3}|..\\ECommerce.Web\\ECommerce.Web.csproj|s:\\.net\\learning\\ecommerce.web\\services\\iservices\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{398E6A16-9E09-41DE-BD6B-C12F94B3B7B3}|..\\ECommerce.Web\\ECommerce.Web.csproj|s:\\.net\\learning\\ecommerce.web\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,7 +53,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -55,126 +61,185 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Request.cs",
-              "DocumentMoniker": "S:\\.Net\\Learning\\ECommerce\\Models\\Request.cs",
-              "RelativeDocumentMoniker": "..\\ECommerce\\Models\\Request.cs",
-              "ToolTip": "S:\\.Net\\Learning\\ECommerce\\Models\\Request.cs",
-              "RelativeToolTip": "..\\ECommerce\\Models\\Request.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "S:\\.Net\\Learning\\ECommerce.Web\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\ECommerce.Web\\Views\\Product\\Index.cshtml",
+              "ToolTip": "S:\\.Net\\Learning\\ECommerce.Web\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "..\\ECommerce.Web\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-09T17:24:14.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductEntity.cs",
+              "DocumentMoniker": "S:\\.Net\\Learning\\ECommerce.Web\\Models\\ProductEntity.cs",
+              "RelativeDocumentMoniker": "..\\ECommerce.Web\\Models\\ProductEntity.cs",
+              "ToolTip": "S:\\.Net\\Learning\\ECommerce.Web\\Models\\ProductEntity.cs",
+              "RelativeToolTip": "..\\ECommerce.Web\\Models\\ProductEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-06T16:58:24.788Z",
+              "WhenOpened": "2025-09-09T17:21:44.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "S:\\.Net\\Learning\\ECommerce.Web\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "..\\ECommerce.Web\\Controllers\\ProductController.cs",
+              "ToolTip": "S:\\.Net\\Learning\\ECommerce.Web\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "..\\ECommerce.Web\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T17:19:05.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApiOptions.cs",
+              "DocumentMoniker": "S:\\.Net\\Learning\\ECommerce.Web\\Utilities\\Options\\ApiOptions.cs",
+              "RelativeDocumentMoniker": "..\\ECommerce.Web\\Utilities\\Options\\ApiOptions.cs",
+              "ToolTip": "S:\\.Net\\Learning\\ECommerce.Web\\Utilities\\Options\\ApiOptions.cs",
+              "RelativeToolTip": "..\\ECommerce.Web\\Utilities\\Options\\ApiOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T17:09:48.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "S:\\.Net\\Learning\\ECommerce.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\ECommerce.Web\\appsettings.json",
+              "ToolTip": "S:\\.Net\\Learning\\ECommerce.Web\\appsettings.json",
+              "RelativeToolTip": "..\\ECommerce.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-09T17:07:01.876Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ApiTypeEnum.cs",
-              "DocumentMoniker": "S:\\.Net\\Learning\\ECommerce\\Utilities\\Enums\\ApiTypeEnum.cs",
-              "RelativeDocumentMoniker": "..\\ECommerce\\Utilities\\Enums\\ApiTypeEnum.cs",
-              "ToolTip": "S:\\.Net\\Learning\\ECommerce\\Utilities\\Enums\\ApiTypeEnum.cs",
-              "RelativeToolTip": "..\\ECommerce\\Utilities\\Enums\\ApiTypeEnum.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "S:\\.Net\\Learning\\ECommerce.Web\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "..\\ECommerce.Web\\Services\\ProductService.cs",
+              "ToolTip": "S:\\.Net\\Learning\\ECommerce.Web\\Services\\ProductService.cs",
+              "RelativeToolTip": "..\\ECommerce.Web\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-06T16:57:06.148Z",
+              "WhenOpened": "2025-09-09T17:03:09.944Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Response.cs",
-              "DocumentMoniker": "S:\\.Net\\Learning\\ECommerce\\Models\\Response.cs",
-              "RelativeDocumentMoniker": "..\\ECommerce\\Models\\Response.cs",
-              "ToolTip": "S:\\.Net\\Learning\\ECommerce\\Models\\Response.cs",
-              "RelativeToolTip": "..\\ECommerce\\Models\\Response.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "S:\\.Net\\Learning\\ECommerce.Web\\Services\\IServices\\IProductService.cs",
+              "RelativeDocumentMoniker": "..\\ECommerce.Web\\Services\\IServices\\IProductService.cs",
+              "ToolTip": "S:\\.Net\\Learning\\ECommerce.Web\\Services\\IServices\\IProductService.cs",
+              "RelativeToolTip": "..\\ECommerce.Web\\Services\\IServices\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-06T16:07:22.946Z",
+              "WhenOpened": "2025-09-09T17:02:28.548Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Ocelot.json",
-              "DocumentMoniker": "S:\\.Net\\Learning\\ECommerceMicroservice\\Gateway\\Ocelot.json",
-              "RelativeDocumentMoniker": "Gateway\\Ocelot.json",
-              "ToolTip": "S:\\.Net\\Learning\\ECommerceMicroservice\\Gateway\\Ocelot.json",
-              "RelativeToolTip": "Gateway\\Ocelot.json",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-06T15:52:58.038Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CustomerController.cs",
-              "DocumentMoniker": "S:\\.Net\\Learning\\ECommerceMicroservice\\Customer.Presentation\\Controllers\\CustomerController.cs",
-              "RelativeDocumentMoniker": "Customer.Presentation\\Controllers\\CustomerController.cs",
-              "ToolTip": "S:\\.Net\\Learning\\ECommerceMicroservice\\Customer.Presentation\\Controllers\\CustomerController.cs",
-              "RelativeToolTip": "Customer.Presentation\\Controllers\\CustomerController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "S:\\.Net\\Learning\\ECommerce.Web\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ECommerce.Web\\Program.cs",
+              "ToolTip": "S:\\.Net\\Learning\\ECommerce.Web\\Program.cs",
+              "RelativeToolTip": "..\\ECommerce.Web\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-06T10:59:06.764Z"
+              "WhenOpened": "2025-09-09T17:01:19.901Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "ProductController.cs",
               "DocumentMoniker": "S:\\.Net\\Learning\\ECommerceMicroservice\\Product.Presentation\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Product.Presentation\\Controllers\\ProductController.cs",
               "ToolTip": "S:\\.Net\\Learning\\ECommerceMicroservice\\Product.Presentation\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Product.Presentation\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-06T10:31:58.881Z"
+              "WhenOpened": "2025-09-09T16:43:29.662Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "S:\\.Net\\Learning\\ECommerceMicroservice\\Auth.Presentation\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "Auth.Presentation\\Controllers\\AuthController.cs",
-              "ToolTip": "S:\\.Net\\Learning\\ECommerceMicroservice\\Auth.Presentation\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "Auth.Presentation\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAwwCsAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "S:\\.Net\\Learning\\ECommerce.Web\\Services\\BaseService.cs",
+              "RelativeDocumentMoniker": "..\\ECommerce.Web\\Services\\BaseService.cs",
+              "ToolTip": "S:\\.Net\\Learning\\ECommerce.Web\\Services\\BaseService.cs",
+              "RelativeToolTip": "..\\ECommerce.Web\\Services\\BaseService.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAmwMYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-06T10:31:58.896Z"
+              "WhenOpened": "2025-09-09T16:50:33.109Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "S:\\.Net\\Learning\\ECommerceMicroservice\\Auth.Infrastructure\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "Auth.Infrastructure\\DependencyInjection.cs",
-              "ToolTip": "S:\\.Net\\Learning\\ECommerceMicroservice\\Auth.Infrastructure\\DependencyInjection.cs",
-              "RelativeToolTip": "Auth.Infrastructure\\DependencyInjection.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAACcAAAAsAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "IBaseService.cs",
+              "DocumentMoniker": "S:\\.Net\\Learning\\ECommerce.Web\\Services\\IServices\\IBaseService.cs",
+              "RelativeDocumentMoniker": "..\\ECommerce.Web\\Services\\IServices\\IBaseService.cs",
+              "ToolTip": "S:\\.Net\\Learning\\ECommerce.Web\\Services\\IServices\\IBaseService.cs",
+              "RelativeToolTip": "..\\ECommerce.Web\\Services\\IServices\\IBaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-06T10:28:04.494Z"
+              "WhenOpened": "2025-09-09T16:49:20.935Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "JwtService.cs",
-              "DocumentMoniker": "S:\\.Net\\Learning\\ECommerceMicroservice\\Auth.Infrastructure\\Services\\JwtService.cs",
-              "RelativeDocumentMoniker": "Auth.Infrastructure\\Services\\JwtService.cs",
-              "ToolTip": "S:\\.Net\\Learning\\ECommerceMicroservice\\Auth.Infrastructure\\Services\\JwtService.cs",
-              "RelativeToolTip": "Auth.Infrastructure\\Services\\JwtService.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAwwC0AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "ApiTypeEnum.cs",
+              "DocumentMoniker": "S:\\.Net\\Learning\\ECommerce.Web\\Utilities\\Enums\\ApiTypeEnum.cs",
+              "RelativeDocumentMoniker": "..\\ECommerce.Web\\Utilities\\Enums\\ApiTypeEnum.cs",
+              "ToolTip": "S:\\.Net\\Learning\\ECommerce.Web\\Utilities\\Enums\\ApiTypeEnum.cs",
+              "RelativeToolTip": "..\\ECommerce.Web\\Utilities\\Enums\\ApiTypeEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-06T10:27:51.059Z"
+              "WhenOpened": "2025-09-09T16:47:44.362Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "S:\\.Net\\Learning\\ECommerceMicroservice\\Auth.Presentation\\appsettings.json",
-              "RelativeDocumentMoniker": "Auth.Presentation\\appsettings.json",
-              "ToolTip": "S:\\.Net\\Learning\\ECommerceMicroservice\\Auth.Presentation\\appsettings.json",
-              "RelativeToolTip": "Auth.Presentation\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-06T10:27:42.92Z"
+              "DocumentIndex": 3,
+              "Title": "Request.cs",
+              "DocumentMoniker": "S:\\.Net\\Learning\\ECommerce.Web\\Models\\Request.cs",
+              "RelativeDocumentMoniker": "..\\ECommerce.Web\\Models\\Request.cs",
+              "ToolTip": "S:\\.Net\\Learning\\ECommerce.Web\\Models\\Request.cs",
+              "RelativeToolTip": "..\\ECommerce.Web\\Models\\Request.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T16:45:41.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Response.cs",
+              "DocumentMoniker": "S:\\.Net\\Learning\\ECommerce.Web\\Models\\Response.cs",
+              "RelativeDocumentMoniker": "..\\ECommerce.Web\\Models\\Response.cs",
+              "ToolTip": "S:\\.Net\\Learning\\ECommerce.Web\\Models\\Response.cs",
+              "RelativeToolTip": "..\\ECommerce.Web\\Models\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T16:45:13.289Z",
+              "EditorCaption": ""
             }
           ]
         }
